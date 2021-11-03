@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Editorial}{9}{chapter*.4}%
+\contentsline {chapter}{Metodología}{11}{chapter*.6}%
+\contentsline {chapter}{Características Generales}{13}{chapter*.7}%
+\contentsline {chapter}{Características Clínicas}{15}{chapter*.10}%
+\contentsline {chapter}{Análisis de Indicadores}{18}{chapter*.15}%
+\contentsline {chapter}{Evaluación para Provincias Priorizadas}{31}{chapter*.35}%
+\contentsline {chapter}{Variantes de COVID-19}{59}{chapter*.91}%
+\contentsline {chapter}{Defunciones Cero}{60}{chapter*.92}%
+\contentsline {chapter}{Agradecimientos}{61}{chapter*.93}%
+\contentsline {chapter}{Diseño y Edición}{62}{chapter*.94}%

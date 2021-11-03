@@ -1,0 +1,1 @@
+Este repositorio representa el trabajo que he estado realizando en cuanto a la limpieza y análisis de datos sobre COVID-19 en la Región Cusco. En ella, se analizan datos de casos, defunciones, secuenciamiento, y vacuna por COVID-19 desde el inicio de la pandemia. La fuente de datos en confidencial. Sin embargo, es posible mostrar el resultado del análsis en este repositorio.

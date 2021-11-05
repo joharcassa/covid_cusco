@@ -24,8 +24,8 @@ global user 1
 *ssc install shp2dta
 
 * Acción requerida: definir la fecha actual y la semana epidemiológica
-global fecha 02nov2021
-global semana 43
+global fecha 04nov2021
+global semana 44
 
 * Tiempo de corrida: alrededor de 7 minutos
 timer on 1

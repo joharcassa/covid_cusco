@@ -9,10 +9,9 @@
 clear all
 set more off
 
-global user 1 
 
 * Acción requerida --> Cambiar la dirección (path) de su folder de replicación
-	global path "C:\Users\HP\Documents\GitHub\covid_cusco"
+	global path "C:\Users\Johar\Documents\GitHub\covid_cusco"
 	
 	cd "$path"
 
@@ -22,6 +21,8 @@ global user 1
 * Acción requerida: programas para realizar mapas
 *ssc install spmap
 *ssc install shp2dta
+*ssc install palettes
+*ssc install colrspace
 
 * Acción requerida: definir la fecha actual y la semana epidemiológica
 global fecha 04nov2021
